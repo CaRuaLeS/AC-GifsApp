@@ -13,3 +13,13 @@ Elementos aplicados:
 - Uso de Api keys
 - LocalStorage
 - Peticiones HTTP
+
+## SC - 8
+
+Elemetos:
+
+- @Inputs
+- @Outputs
+- Custom Components
+- Validaciones
+- Importaciones de módulos
